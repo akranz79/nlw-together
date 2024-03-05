@@ -1,17 +1,23 @@
 ## NLW Together
 
+Link para acessar o projeto:
+
+https://akranz79.github.io/nlw-together/
+
 
 ### Aula 01 O começo de tudo
 
 Nesta aula teremos o conhecimento inicial de programação. Estaremos iniciando nosso projeto e adquirindo conhecimentos fundamentais de HTML e CSS, além de iniciarmos um novo vocabulário de palavras desse universo da programação.
 
+-
+<br />
 ### Aula 02 Expandindo o conhecimento
 
 Nesta aula iremos adicionar mais informações, tags html e estilo ao nosso projeto, aumentando nosso vocabulário de propriedades CSS, além do HTML. Daremos início à programação em JavasScript.
 
+-
+<br />
 ### Aula 03 Novos controles
-
-
 
 Nesta aula vamos construir novos elementos para o nosso projeto, fazendo ele ficar ainda mais dinâmico e único, com mais programação Javascript e ajustes CSS. Aprenderemos a usar códigos de outros desenvolvedores.
 
@@ -94,12 +100,14 @@ De acordo com a documentação do Swiper (https://swiperjs.com/get-started#add-s
         </div>
       </section>
 
-
+-
+<br />
 ### Aula 4: Aprofundando os conceitos
 
 Nesta aula ganharemos maior conhecimento de JavaScript e seus conceitos que irão fazer nossa aplicação ganhar maiores poderes! Adicionaremos os componentes finais da nossa aplicação
 
-
+-
+<br />
 ### Aula 5: Finalizando o projeto
 
 Estamos finalizando nossa aplicação 🎉 e nesta aula vamos refinar a aplicação criando adaptações para diversos dispositivos. 
