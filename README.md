@@ -4,26 +4,28 @@ Link para acessar o projeto:
 
 https://akranz79.github.io/nlw-together/
 
+![Imagem](/assets/fotos/Screenshot_1.jpg)
 
-### Aula 01 O começo de tudo
+
+## Aula 01 - O começo de tudo
 
 Nesta aula teremos o conhecimento inicial de programação. Estaremos iniciando nosso projeto e adquirindo conhecimentos fundamentais de HTML e CSS, além de iniciarmos um novo vocabulário de palavras desse universo da programação.
 
--
-<br />
-### Aula 02 Expandindo o conhecimento
+
+
+## Aula 02  - Expandindo o conhecimento
 
 Nesta aula iremos adicionar mais informações, tags html e estilo ao nosso projeto, aumentando nosso vocabulário de propriedades CSS, além do HTML. Daremos início à programação em JavasScript.
 
--
-<br />
-### Aula 03 Novos controles
+
+
+## Aula 03 - Novos controles
 
 Nesta aula vamos construir novos elementos para o nosso projeto, fazendo ele ficar ainda mais dinâmico e único, com mais programação Javascript e ajustes CSS. Aprenderemos a usar códigos de outros desenvolvedores.
 
-#### Corrigindo o bug da lib Swiper
-
-#### A paginação não aparece como a do vídeo
+> [!IMPORTANT]
+> Corrigindo o bug da lib Swiper <br/>
+> A paginação não aparece como a do vídeo
 
 Depois da gravação desta aula, a **lib Swiper** foi atualizada e isso está causando um bug que faz com que a paginação dos slides não fique no posicionamento correto. Mas você não precisa se preocupar, esse é um problema bem simples de corrigir. Veja:
 
@@ -100,27 +102,27 @@ De acordo com a documentação do Swiper (https://swiperjs.com/get-started#add-s
         </div>
       </section>
 
--
-<br />
-### Aula 4: Aprofundando os conceitos
+
+## Aula 4: Aprofundando os conceitos
+
+
 
 Nesta aula ganharemos maior conhecimento de JavaScript e seus conceitos que irão fazer nossa aplicação ganhar maiores poderes! Adicionaremos os componentes finais da nossa aplicação
 
--
-<br />
-### Aula 5: Finalizando o projeto
+
+
+## Aula 5: Finalizando o projeto
 
 Estamos finalizando nossa aplicação 🎉 e nesta aula vamos refinar a aplicação criando adaptações para diversos dispositivos. 
 
-- Desafios
-    
-    + breakpoints
-    
-    Adapte para outros dispositivos
-    
-    + trocar
-    
-    cores, fontes, conteúdo
+> [!NOTE]
+> - Desafios
+
+        + breakpoints
+              Adapte para outros dispositivos
+
+        + trocar
+              cores, fontes, conteúdo
 
 ### Figma
 
