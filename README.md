@@ -1,6 +1,6 @@
-# nlw-together
+## nlw-together
 
-## Figma
+### Figma
 
 https://www.figma.com/community/file/1009807319507822993
 
@@ -15,15 +15,13 @@ Nesta aula teremos o conhecimento inicial de programação. Estaremos iniciando 
 
 Nesta aula iremos adicionar mais informações, tags html e estilo ao nosso projeto, aumentando nosso vocabulário de propriedades CSS, além do HTML. Daremos início à programação em JavasScript.
 
-### Aula 03 ### Novos controles
+### Aula 03 Novos controles
 
-[Aula 03](https://www.notion.so/Aula-03-9796eba5a6ef48c7958e14aec3cd34c2?pvs=21)
 
----
 
 Nesta aula vamos construir novos elementos para o nosso projeto, fazendo ele ficar ainda mais dinâmico e único, com mais programação Javascript e ajustes CSS. Aprenderemos a usar códigos de outros desenvolvedores.
 
-## Corrigindo o bug da lib Swiper
+### Corrigindo o bug da lib Swiper
 
 ### A paginação não aparece como a do vídeo
 
@@ -101,3 +99,9 @@ De acordo com a documentação do Swiper (https://swiperjs.com/get-started#add-s
           </div>
         </div>
       </section>
+
+
+### Aula 4: Aprofundando os conceitos
+
+
+Nesta aula ganharemos maior conhecimento de JavaScript e seus conceitos que irão fazer nossa aplicação ganhar maiores poderes! Adicionaremos os componentes finais da nossa aplicação
