@@ -1,10 +1,4 @@
-## nlw-together
-
-### Figma
-
-https://www.figma.com/community/file/1009807319507822993
-
-https://efficient-sloth-d85.notion.site/OriginSix-e371b95102074411a6eca3ba640f0ecd
+## NLW Together
 
 
 ### Aula 01 O começo de tudo
@@ -21,9 +15,9 @@ Nesta aula iremos adicionar mais informações, tags html e estilo ao nosso proj
 
 Nesta aula vamos construir novos elementos para o nosso projeto, fazendo ele ficar ainda mais dinâmico e único, com mais programação Javascript e ajustes CSS. Aprenderemos a usar códigos de outros desenvolvedores.
 
-### Corrigindo o bug da lib Swiper
+#### Corrigindo o bug da lib Swiper
 
-### A paginação não aparece como a do vídeo
+#### A paginação não aparece como a do vídeo
 
 Depois da gravação desta aula, a **lib Swiper** foi atualizada e isso está causando um bug que faz com que a paginação dos slides não fique no posicionamento correto. Mas você não precisa se preocupar, esse é um problema bem simples de corrigir. Veja:
 
@@ -103,5 +97,36 @@ De acordo com a documentação do Swiper (https://swiperjs.com/get-started#add-s
 
 ### Aula 4: Aprofundando os conceitos
 
-
 Nesta aula ganharemos maior conhecimento de JavaScript e seus conceitos que irão fazer nossa aplicação ganhar maiores poderes! Adicionaremos os componentes finais da nossa aplicação
+
+
+### Aula 5: Finalizando o projeto
+
+Estamos finalizando nossa aplicação 🎉 e nesta aula vamos refinar a aplicação criando adaptações para diversos dispositivos. 
+
+- Desafios
+    
+    + breakpoints
+    
+    Adapte para outros dispositivos
+    
+    + trocar
+    
+    cores, fontes, conteúdo
+
+### Figma
+
+https://www.figma.com/community/file/1009807319507822993
+
+https://efficient-sloth-d85.notion.site/OriginSix-e371b95102074411a6eca3ba640f0ecd
+
+---
+<br />
+
+<a href="https://github.com/akranz79/"><img src="https://github.com/akranz79/akranz79/blob/main/img/img2.png" width="100px;" alt="" /> </a>
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Alexandre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akranz/)](https://www.linkedin.com/in/akranz/)
+[![Gmail Badge](https://img.shields.io/badge/-ahkranz79@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahkranz79@gmail.com)](mailto:ahkranz79@gmail.com)
+
+⚙ O desenvolvimento de software é uma arte em constante evolução - nunca se contente com o suficiente. ⚙
+
